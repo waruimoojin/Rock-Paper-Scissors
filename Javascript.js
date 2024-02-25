@@ -44,14 +44,9 @@ console.log(playsSingleRound(playerSelection, computerSelection));
 
   
 }
-
-playGame()
-playGame()
-playGame()
-playGame()
-playGame()
-playGame()
-
+for (let i = 0; i < 5; i++){
+    playGame()
+}
 
 
 
